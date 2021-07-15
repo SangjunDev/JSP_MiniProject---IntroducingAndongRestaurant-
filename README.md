@@ -1,7 +1,7 @@
 
 # JSP_MiniProject_IntroducingAndongRestaurant
 
-  주제 : Java를 활용한 국내 주식 트레이딩 시뮬레이션 프로젝트
+  주제 : 
   
 
 # 프로젝트 기획서
