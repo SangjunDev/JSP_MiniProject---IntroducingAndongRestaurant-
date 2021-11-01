@@ -1,7 +1,7 @@
 
 # JSP_MiniProject_IntroducingAndongRestaurant
 
-  주제 : 
+  주제 : 안동 식당 소개 
   
 
 # 프로젝트 기획서
@@ -15,10 +15,10 @@
    
   프로젝트 주요 특징
 
-    - 
-    - 
-    - 
-    - 
+    - 회원가입 및 게시판 구현
+    - Daum 주소 API를 활용한 로그인 구현
+    - DB를 활용하여 음식점 정보 관리
+  
     
 ![1](https://user-images.githubusercontent.com/86037701/125395905-c0b4f500-e3e6-11eb-9795-76d42da03cbb.JPG)
 ![2](https://user-images.githubusercontent.com/86037701/125395913-c3afe580-e3e6-11eb-89c3-ea960ab5f633.jpg)
